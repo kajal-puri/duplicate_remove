@@ -1,0 +1,5 @@
+imutils==0.5.4
+numpy==1.21.6
+imageio==2.17.0
+matplotlib==3.5.1
+opencv-python==3.4.2
